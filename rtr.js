@@ -1,1 +1,2 @@
+close()
 open ('/redirect.js')
