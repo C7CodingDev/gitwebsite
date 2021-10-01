@@ -1,2 +1,2 @@
-close()
+
 open ('/redirect.js')
