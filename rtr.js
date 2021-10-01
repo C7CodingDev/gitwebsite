@@ -1,2 +1,2 @@
 
-open ('/redirect.js')
+open ('/htp.html')
